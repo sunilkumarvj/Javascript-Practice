@@ -1,4 +1,4 @@
-# JS-30-Javascript Codes
+# Javascript-Practice Codes
 
 ## 1.DrumKit
 It will take the keybaord key with respect to key data and plays the drumkit sound after clicking the keys of the keybard.
